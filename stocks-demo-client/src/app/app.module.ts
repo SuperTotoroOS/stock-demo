@@ -14,8 +14,8 @@ import { ControlSidebarComponent } from './layout/control-sidebar/control-sideba
 import { StockFormComponent } from './components/stock/stock-form/stock-form.component';
 import { StockManagerComponent } from './components/stock/stock-manager/stock-manager.component';
 import { DashboardComponent } from './components/dashboard/dashboard.component';
-import {WebSocketService} from './service/web-socket.service';
-import {StockService} from './service/stock.service';
+import { WebSocketService} from './service/web-socket.service';
+import { StockService} from './service/stock.service';
 import { StockFilterPipe } from './pipe/stock-filter.pipe';
 import { StarsComponent } from './components/stars/stars.component';
 
